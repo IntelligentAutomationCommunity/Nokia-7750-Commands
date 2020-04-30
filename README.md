@@ -6,5 +6,8 @@ Simply supply the connection string parameters and additional variables can be a
 Download the Studio Package file and Import it into your Cortex Environment.
 Don't forget to apply rights using the Studio Authorization module.
 
+## Note
+Please note that this package contains almost 400 commands, it could take some time to import them.
+
 :thumbsup: Success! :wink:
 
